@@ -32,6 +32,8 @@ databroker-proto = { path = "databroker-proto" }
 prost = "0.12.6"
 # prost-types has no features
 prost-types = "0.12.6"
+rand = "0.8"
+anyhow = "1.0"
 # tokio does not enable features by default
 tokio = "1.17.0"
 # tokio-stream has no features
